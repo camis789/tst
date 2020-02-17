@@ -1,0 +1,11 @@
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\bin\Debug\bd.accdb
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\bin\Debug\keyproject.exe.config
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\bin\Debug\keyproject.exe
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\bin\Debug\keyproject.pdb
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\obj\Debug\keyproject.csprojAssemblyReference.cache
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\obj\Debug\keyproject.Form1.resources
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\obj\Debug\keyproject.Properties.Resources.resources
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\obj\Debug\keyproject.csproj.GenerateResource.cache
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\obj\Debug\keyproject.exe
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\obj\Debug\keyproject.pdb
+C:\Users\T.I EDUARDO\source\repos\keyproject\keyproject\obj\Debug\keyproject.Form2.resources
