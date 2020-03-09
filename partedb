@@ -1,0 +1,20 @@
+ bd1DataSetTableAdapters.dadosTableAdapter dadosTableAdapter = new bd1DataSetTableAdapters.dadosTableAdapter();
+
+            dadosTableAdapter.Insert(
+                Nome: textBox1.Text,
+                Funcionario: checkfun.Checked,
+                ID_Ambev: txtboxid.Text,
+                Visitante: checkvis.Checked,
+                _CPF_CNPJ: txtcpf.Text,
+                Razao: razvis.Text,
+                Chave: cbchave.Text,
+                Setor: cbsetor.Text,
+                Data_Entregue: txtboxid.Text,
+                Data_Recebida: txtboxid.Text,
+                Recebeu: checkBox1.Checked
+
+
+                );
+
+            dadosTableAdapter.GetData();
+           
